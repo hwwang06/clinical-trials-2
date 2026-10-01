@@ -1,0 +1,5 @@
+requests
+bs4 
+mcp<2
+pytrials
+pandas
